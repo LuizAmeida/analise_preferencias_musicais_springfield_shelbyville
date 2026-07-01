@@ -135,24 +135,5 @@ O projeto seguiu uma abordagem estruturada em 3 etapas:
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlmeida)
 
 
+
 ## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
-````
-
----
-
-## 🎯 RESUMO DO QUE FAZER
-
-| Ação | Status |
-|------|--------|
-| Criar repositório `analise_preferencias_musicais_springfield_shelbyville` | ⬜ |
-| Fazer upload do arquivo `.ipynb` | ⬜ |
-| Adicionar README.md com o texto acima | ⬜ |
-| Adicionar tópico `tripleten` | ⬜ |
-| Fixar (pinned) no perfil | ⬜ |
-
----
-
-Me avise quando terminar e passamos para o **Sprint 3**! 🚀
-````
-
-
